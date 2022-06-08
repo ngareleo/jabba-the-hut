@@ -25,7 +25,7 @@ class KeyRouter:
         "vegew52655@rubygon.com": "F7BF4D14-6EE5-4280-A1BF-528777FF639F",
         "gfsnmpefnd@frederictonlawyer.com": "DFF371F6-B1F7-44C6-B0BB-293497892093"
     }
-
+    # TODO hide these keys in a secrets file
     # I really need more keys
 
     counter = 0
